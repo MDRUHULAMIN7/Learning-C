@@ -1,12 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-    int  r , t ;
-     float p = 34.1;
-     r = 8 ;
-     t = 5 ;
+int main()
+{
+    int r, t;
+    float p = 34.1;
+    r = 8;
+    t = 5;
 
-     printf("The Interst of %f in rate of %d in %d is %f",p,r,t , ((p*r*t)/100));
+    printf("The Interst of %f in rate of %d in %d is %f", p, r, t, ((p * r * t) / 100));
     return 0;
 }
 

@@ -28,3 +28,7 @@ int main(){
 
     return 0;
 }
+
+/*5. Write a program using a function which calculates the sum and average of two
+numbers. Use pointers and print the values of sum and average in main().
+*/

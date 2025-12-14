@@ -3,7 +3,7 @@
 int main(){
     int i = 6;
     int* j = &i; // akhane j holo pointer je i ar address store korse 
-    int** k = &j;
+    int** k = &j; // akhane k addrees j ar o adress store korse 
 
 
     printf("The value of i is %d\n", i);
